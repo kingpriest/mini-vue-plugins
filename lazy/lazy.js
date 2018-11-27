@@ -1,4 +1,5 @@
 // IIFE
+// 使用方法：import后mixin入Vue
 export default (() => {
     const tro = (fn, delay = 300) => {
         let flag = false;
